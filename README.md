@@ -1,4 +1,4 @@
-###  <img width="612" alt="Martin Hofmann Logo" src="https://user-images.githubusercontent.com/3717760/87826137-31095480-c82d-11ea-8d60-d70c75561c50.png">
+###  <img width="400" alt="Martin Hofmann Logo" src="https://user-images.githubusercontent.com/3717760/87826137-31095480-c82d-11ea-8d60-d70c75561c50.png">
 
 <!--
 **Martskin/martskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
