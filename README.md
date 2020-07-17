@@ -40,6 +40,9 @@ A simple, responsive, flexbox grid system.
 
 ![basic-usage](https://cloud.githubusercontent.com/assets/3717760/9275606/3f007484-426c-11e5-9b05-94671aaaf562.png)
 
+## Documentation
+[Batch Documentation](https://martskin.github.io/batch)
+
 ---
 
 
