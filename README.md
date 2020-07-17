@@ -1,14 +1,14 @@
-###  <img width="400" alt="Martin Hofmann Logo" src="https://user-images.githubusercontent.com/3717760/87826137-31095480-c82d-11ea-8d60-d70c75561c50.png">
+##  <img width="400" alt="Martin Hofmann Logo" src="https://user-images.githubusercontent.com/3717760/87826137-31095480-c82d-11ea-8d60-d70c75561c50.png">
 
 Creative and versatile front-end developer. Experienced with component engineering for design systems, web applications and prototypes.
 
-### Recent Projects
+###4 Recent Projects
 
 ---
 
-<h4>
+<h3>
   <img width="20" alt="CSS Box Model Visualizer" src="https://user-images.githubusercontent.com/3717760/63388648-033a3800-c35e-11e9-86b8-9febb99d1655.png"> <a href="https://box-model-visualizer.netlify.com/model">CSS Box Model Visualizer</a>
-</h4>
+</h3>
 
 A quick way to visualize and share CSS box model examples. Adjust the inputs in the control panel to customize margin, padding, border, element dimensions and colors.
 
