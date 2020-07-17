@@ -5,8 +5,7 @@ Creative and versatile front-end developer. Experienced with component engineeri
 ### Projects
 
 <h4>
-  <img width="30" alt="CSS Box Model Visualizer" src="https://user-images.githubusercontent.com/3717760/63388648-033a3800-c35e-11e9-86b8-9febb99d1655.png">
-    CSS Box Model Visualizer
+  <img width="30" alt="CSS Box Model Visualizer" src="https://user-images.githubusercontent.com/3717760/63388648-033a3800-c35e-11e9-86b8-9febb99d1655.png"> <a href="https://box-model-visualizer.netlify.com/model">CSS Box Model Visualizer</a>
 </h4>
 
 A quick way to visualize and share CSS box model examples. Adjust the inputs in the control panel to customize margin, padding, border, element dimensions and colors.
