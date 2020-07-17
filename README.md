@@ -2,7 +2,7 @@
 
 Creative and versatile front-end developer. Experienced with component engineering for design systems, web applications and prototypes.
 
-###4 Recent Projects
+#### Recent Projects
 
 ---
 
