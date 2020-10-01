@@ -1,6 +1,6 @@
 ##  <img width="400" alt="Martin Hofmann Logo" src="https://user-images.githubusercontent.com/3717760/87826137-31095480-c82d-11ea-8d60-d70c75561c50.png">
 
-Creative and versatile front-end developer. Experienced with component engineering for design systems, web applications and prototypes.
+Hello, I’m a Front-End Developer specializing in building components and documentation for design sytems. I’ve contributed to 10+ design systems and my skillset includes JS, HTML, SCSS/CSS, React and Vue. My background in visual design combined with my knowledge of asset creation enables me to become a bridge between design and engineering.
 
 #### Some of My Personal Projects
 
